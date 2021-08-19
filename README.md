@@ -1,1 +1,1 @@
-api-call-pizza-store.netlify.app
+https://api-call-pizza-store.netlify.app/
